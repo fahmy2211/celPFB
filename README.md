@@ -8,7 +8,7 @@ To ensure that this UI works properly, make sure to run the UI server on the Cel
 
 ## Homu UI and Generate 
 
-https://user-images.githubusercontent.com/116193981/232954676-a035ce10-3c42-4eee-b977-e864dc5f5f2d.jpg
+![home] (https://user-images.githubusercontent.com/116193981/232954676-a035ce10-3c42-4eee-b977-e864dc5f5f2d.jpg)
 
 
 ## Result For PFB
