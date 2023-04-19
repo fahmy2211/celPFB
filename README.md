@@ -16,7 +16,7 @@ To ensure that this UI works properly, make sure to run the UI server on the Cel
 
 
 
-Step For Installation
+Step by step For Installation Ui
 
 
 ```bash 
@@ -35,11 +35,11 @@ npm install express
 ```
 
 ```bash
-git clone https://github.com/Dexanode/celestia_pfb
+git clone https://github.com/fahmy2211/celPFB
 ``` 
 
 ```bash
-cd celestia_pfb
+cd celPFB
 ```
 
 ```
