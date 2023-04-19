@@ -6,12 +6,12 @@ notice :
 Set the port according to choice and To ensure that this UI works properly, make sure to run the UI server on the Celestia node gateway server with port 26659 and sufficient balance.
 
 
-## Homu UI and Generate 
+## Home UI and Generate 
 
 ![photo_2023-04-19_09-47-12](https://user-images.githubusercontent.com/116193981/232955668-b67d8271-fd75-4001-84ab-18a2af075ee2.jpg)
 
 
-## Result PFB after EnTER
+## Result PFB after ENTER
 ![photo_2023-04-19_09-47-10](https://user-images.githubusercontent.com/116193981/232955787-aa117cf9-e574-4a05-bc09-ecfddf606ff3.jpg)
 
 
