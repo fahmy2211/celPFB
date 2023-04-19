@@ -1,6 +1,6 @@
-### Guide for use generator Pay For Blob Celestia
+This Guide for use generator PFB (Pay For Blob) Celestia
 
-Link Demo : http://65.21.232.160:4010/
+Link UI Celestia PFB : http://64.226.77.246:6070/
 
 
 To ensure that this UI works properly, make sure to run the UI server on the Celestia node gateway server with port 26659 and sufficient balance.
