@@ -6,9 +6,9 @@ Link UI Celestia PFB : http://64.226.77.246:6070/
 To ensure that this UI works properly, make sure to run the UI server on the Celestia node gateway server with port 26659 and sufficient balance.
 
 
-## Generate 
+## Homu UI and Generate 
 
-![Screenshot 2023-04-12 at 04 49 58](https://user-images.githubusercontent.com/65535542/231295828-bee0c644-1f57-4461-8a4c-750fcb826fd6.png)
+https://github.com/fahmy2211/celPFB/issues/1#issue-1674090764
 
 
 ## Result For PFB
