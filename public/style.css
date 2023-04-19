@@ -22,7 +22,7 @@ a {
 h3 {
   display: flex;
   font-family: 'Poppins';
-  color: #f7fcfe;
+  color: #149813;
   margin-bottom: 50px;
   align-items: center;
   justify-content: center;
@@ -57,7 +57,7 @@ form input, button {
   border-radius: 10px;
   border: none;
   background-color: #93ffe8;
-  color: #7a2bf9;
+  color: #e2fed9;
   font-size: 18px;
   font-weight: 500;
   box-shadow: 0 5px 10px #2cd1fa;
@@ -132,7 +132,7 @@ a {
   padding: .5em 1em;
   margin-left: -270px;
   margin-right: -270px;
-  background-color: #030255;
+  background-color: #05d6a9;
 
 }
 
