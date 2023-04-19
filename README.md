@@ -43,6 +43,8 @@ git clone https://github.com/fahmy2211/celPFB
 cd celPFB
 ```
 
+to keep node js active, you can use 2 options, with the docker or screen
 ```
+screen -R (namescreen)
 node main.js
 ```
